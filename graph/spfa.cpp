@@ -1,3 +1,8 @@
+//
+//  Lib version v2.0 beta
+//  Date: 2014/1/10
+//  SPFA algorithm
+
 #include<cstdio>
 #include<algorithm>
 #include<vector>
