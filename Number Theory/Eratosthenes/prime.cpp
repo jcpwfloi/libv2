@@ -1,5 +1,5 @@
 //
-//  Lib version v1.1
+//  Lib version v2.0 beta
 //  Date: 2014/1/10
 //  Eratosthenes algorithm
 #include<cstdio>
