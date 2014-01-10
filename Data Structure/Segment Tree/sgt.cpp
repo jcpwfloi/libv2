@@ -1,5 +1,5 @@
 //
-//  Lib version v2.0 beta
+//  Lib version v2.0 alpha
 //  Date: 2014/1/10
 //  Segmentational Tree
 #include<cstdio>
