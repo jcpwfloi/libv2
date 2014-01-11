@@ -1,3 +1,8 @@
+//
+//  Lib version v2.0 alpha
+//  Date: 2014/1/11
+//  kruskal algorithm
+
 #include<cstdio>
 #include<algorithm>
 #include<vector>
